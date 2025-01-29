@@ -1,0 +1,10 @@
+## AI
+# OpenAI API
+OPENAI_API_KEY=""
+
+# Langsmith Tracking
+LANGCHAIN_TRACING_V2=true
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+# Eden's tracking key
+LANGCHAIN_API_KEY=""
+LANGCHAIN_PROJECT="berries"
